@@ -25,7 +25,7 @@ To truly get the most out of this journey, make sure you're comfortable with:
 I personally learned from Neso Academy's C programming playlist — simple, clear, and well-explained.
 Link - "https://youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&si=gZG0gMcB2T8P1gIf"
 
-🔸 Digital Electronics – Flip-flops, muxes, gates, FSMs — these are your bread and butter.
+🔸 Digital Electronics
 📺 You can refer either:
 
 Engineering Funda (my favorite!)
